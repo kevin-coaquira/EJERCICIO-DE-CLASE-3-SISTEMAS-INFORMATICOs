@@ -53,3 +53,24 @@ En un principio no salia toda la información que tenia que salir, asi que lo qu
 
 ## TASK 8
 ![image](https://user-images.githubusercontent.com/91737963/160606655-b980a4ab-f768-4e99-bac9-f6a1ba19bdde.png)
+
+## TASK 9
+### Get-Help Get-Help | Out-GridView
+![image](https://user-images.githubusercontent.com/91737963/160607205-ae45db67-e749-46f4-9afe-d3ff7cc21cdb.png)
+
+### Get-Help New-Item | Out-GridView
+![image](https://user-images.githubusercontent.com/91737963/160607611-0dc0457e-3197-4182-9bca-4be02e441995.png)
+
+### Get-Help Get-Alias | Out-GridView
+![image](https://user-images.githubusercontent.com/91737963/160607996-7a466a38-181a-4fdb-baea-9e78637d63bc.png)
+
+### Get-Help Get-AuthenticodeSignature | Out-GridView 
+![image](https://user-images.githubusercontent.com/91737963/160608180-808c9307-66c8-4306-8162-9b62a434ea49.png)
+
+### Get-Help Get-ControlPanelItem | Out-GridView
+![image](https://user-images.githubusercontent.com/91737963/160608333-67be621e-0945-49ad-be18-337bfb069bfe.png)
+
+## TASK 10
+![image](https://user-images.githubusercontent.com/91737963/160608737-af6fb892-f95c-4890-91a1-9c42a8bcfae8.png)
+
+https://docs.microsoft.com/es-ES/powershell/
