@@ -37,3 +37,8 @@ En un principio no salia toda la información que tenia que salir, asi que lo qu
 
 ![image](https://user-images.githubusercontent.com/91737963/160602830-5f55e4fe-b68c-4f76-ad37-29b8db25184e.png)
 
+## TASK 4
+![image](https://user-images.githubusercontent.com/91737963/160603725-4308d5c0-7ff6-464c-a47c-9538aab5cca9.png)
+
+![image](https://user-images.githubusercontent.com/91737963/160603822-5d9ba4cf-dfb5-4dd6-864b-9d7911ee0e74.png)
+
