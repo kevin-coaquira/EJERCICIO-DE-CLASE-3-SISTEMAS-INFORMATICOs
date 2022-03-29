@@ -40,3 +40,13 @@ En un principio no salia toda la información que tenia que salir, asi que lo qu
 
 ![image](https://user-images.githubusercontent.com/91737963/160603822-5d9ba4cf-dfb5-4dd6-864b-9d7911ee0e74.png)
 
+## TASK 5
+![image](https://user-images.githubusercontent.com/91737963/160604345-908fed66-f486-4713-9a03-e4dea0f93386.png)
+
+## TASK 6
+![image](https://user-images.githubusercontent.com/91737963/160604959-669d1250-0dfa-4773-be8d-b67bd523a2da.png)
+
+![image](https://user-images.githubusercontent.com/91737963/160605015-8a00734b-7af0-48f3-95f6-7370afd71bcc.png)
+
+## TASK 7
+![image](https://user-images.githubusercontent.com/91737963/160605313-2d341d46-ce80-4b20-a26e-a45aea47c23d.png)
