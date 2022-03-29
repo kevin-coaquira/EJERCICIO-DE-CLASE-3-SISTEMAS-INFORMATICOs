@@ -31,3 +31,5 @@ En un principio no salia toda la información que tenia que salir, asi que lo qu
 
 ### Get-Help Get-ControlPanelItem -Examples
 ![image](https://user-images.githubusercontent.com/91737963/160575912-476c1784-2603-4938-8641-88f678567bee.png)
+
+## TASK 3
