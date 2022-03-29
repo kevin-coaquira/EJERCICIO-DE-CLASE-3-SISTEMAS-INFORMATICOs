@@ -1,7 +1,7 @@
 # EJERCICIO DE CLASE 3 SISTEMAS INFORMATICOS
 ## TASK 1
 ### Get-Help Get-Alias
-![EJERCICIO3 1-SISTEMAS](https://user-images.githubusercontent.com/91737963/160491069-403a7c23-65a2-45be-8d40-c443bb9956f1.png)
+![image](https://user-images.githubusercontent.com/91737963/160562238-0187fb71-b37c-4908-9c7f-6fd5bd925060.png)
 
 ### Get-Help Get-Help
 ![EJERCICIO3 2-SISTEMAS](https://user-images.githubusercontent.com/91737963/160491330-2cf01966-5263-4d8a-8c10-8c8ecc2cff55.png)
