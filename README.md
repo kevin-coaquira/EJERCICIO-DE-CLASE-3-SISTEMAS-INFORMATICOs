@@ -50,3 +50,6 @@ En un principio no salia toda la información que tenia que salir, asi que lo qu
 
 ## TASK 7
 ![image](https://user-images.githubusercontent.com/91737963/160605313-2d341d46-ce80-4b20-a26e-a45aea47c23d.png)
+
+## TASK 8
+![image](https://user-images.githubusercontent.com/91737963/160606655-b980a4ab-f768-4e99-bac9-f6a1ba19bdde.png)
